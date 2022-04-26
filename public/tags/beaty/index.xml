@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beaty on My Web site!</title>
+    <link>http://example.com/tags/beaty/</link>
+    <description>Recent content in Beaty on My Web site!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.com/tags/beaty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gatitos</title>
+      <link>http://example.com/post/gatitos/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/gatitos/</guid>
+      <description>Los gatitos No cabe duda que los gatos son una excelente compañía. Son perfectos cómplices para las personas que buscan un compañero con quien descansar, que le guste pasar momentos tranquilos y sobre todo aquel que busca un amigo fiel. Muchos artistas afirman que son la mejor compañía y, a veces, una gran inspiración.</description>
+    </item>
+    
+  </channel>
+</rss>

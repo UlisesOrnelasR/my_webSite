@@ -1,4 +1,4 @@
-baseURL = "http://ulisesornelasr.github.io/my_webSite/"
+baseURL = "https://ulisesornelasr.github.io/my_webSite/"
 languageCode = "en-us"
 title = "My Web site!"
 theme = "minimal"
